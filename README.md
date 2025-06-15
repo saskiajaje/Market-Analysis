@@ -1,4 +1,4 @@
-ARIMA 
+ARIMA - Time Series Forecasting with ARIMA: Predicting Market Prices with Precision
 
 ```{r}
 install.packages("readxl")
@@ -127,7 +127,7 @@ print(forecast_df)
 ```
     
 
-MONTE CARLO 
+MONTE CARLO - Risk Modeling with Monte Carlo Simulation: Estimating Probabilities in Uncertain Markets
 
 ```{r}
 # Load required libraries
@@ -307,9 +307,7 @@ p <- ggplot() +
 print(p)
 ```
 
-
-
-QUANTMOD 
+QUANTMOD - Quantitative Market Analysis with quantmod: Visualizing Financial Trends and Indicators
 
 ```{r}
 install.packages("TTR")
@@ -508,8 +506,8 @@ cat("Price Momentum (over the analyzed period):", round(momentum, 2), "%\n")
 
 
 
-NEWS ANALYSIS, Support&Resistance, Fibonacci Retracement
-[REVISED VERSION]
+NEWS ANALYSIS, Support&Resistance, Fibonacci Retracement - Market Mood Decoder: Analyzing Financial News & Social Media Sentiment
+[REVISED VERSION] 
 
 ```{r}
 # Read the Excel file
